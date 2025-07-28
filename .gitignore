@@ -37,7 +37,7 @@ migrate_working_dir/
 *.env
 **/google-services*.json  # يغطي google-services.json وأي ملفات مشابهة زي google-services (1).json
 **/GoogleService-Info.plist  # لملفات Firebase الخاصة بـ iOS
-
+**/firebase_options*.dart
 # Symbolication related
 app.*.symbols
 
