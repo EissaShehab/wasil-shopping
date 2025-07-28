@@ -32,6 +32,11 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+*.g.dart
+*.freezed.dart
+*.env
+**/google-services*.json  # يغطي google-services.json وأي ملفات مشابهة زي google-services (1).json
+**/GoogleService-Info.plist  # لملفات Firebase الخاصة بـ iOS
 
 # Symbolication related
 app.*.symbols
