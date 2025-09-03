@@ -1,16 +1,18 @@
-# wasil_shopping
+🚀 Wasil Shopping: My Solo Flutter E-Commerce App! 🛒 
+Thrilled to share Wasil Shopping, a mobile app I built from the ground up using Flutter to master BLoC state management, experiment with advanced filtering, and integrate Firebase for real-time functionality. This project was my playground for leveling up my mobile dev skills! 👇 
 
-A new Flutter project.
+✨ Key Features
+- Dynamic Product Listing: Responsive grid with animated cards, powered by CachedNetworkImage and Shimmer for smooth visuals. 
+- Advanced Filtering & Sorting: Custom filters by category/price and sorting options, driven by BLoC for real-time updates. 
+- User Authentication: Secure login/logout with Firebase Authentication, supporting guest and logged-in modes. 
+- Real-Time Data: Stored and retrieved product data and user preferences using Firebase Firestore for seamless updates. 
+- Offline Support: Cached data for uninterrupted access. 
+- Optimized UI/UX: Fixed RenderFlex issues for a polished experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Tech Stack
+- Flutter: Cross-platform UI magic. 
+- BLoC: Robust state management. 
+- Firebase: Authentication for secure user management and Firestore for real-time data. 
+- Go Router: Seamless navigation. 
+- Iconly & Shimmer: Stunning visuals and loading effects. 
+- Dart: The heart of the app.
